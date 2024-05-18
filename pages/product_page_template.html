@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalhes do Produto</title>
+    <link rel="stylesheet" href="/css/catalysts.css">
+</head>
+<body>
+    <header>
+        <div class="iconBack">
+           <a href="./catalysts.html"><img src="/images/icons/IconBack.png" alt=""></a>
+        </div>
+    </header>
+    <section class="product-details">
+        <div class="product-details-1">
+            <img id="productImg" src="" alt="Product Image">
+        </div>
+        <div class="product-details-2">
+            <h1>Catalisador</h1>
+            <h2 id="productTitle"></h2>
+            <p id="productDescription"></p>
+            <h3 id="productPrice"></h3>
+            <a id="whatsappLink" href="" target="_blank">Faça seu Pedido <img src="../images/icons/IconBuy.png" alt=""></a>
+        </div>
+    </section>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const urlParams = new URLSearchParams(window.location.search);
+            const brand = urlParams.get('brand');
+            const imgSrc = urlParams.get('imgSrc');
+            const title = urlParams.get('title');
+            const description = urlParams.get('description');
+            const price = urlParams.get('price');
+            const whatsappLink = urlParams.get('whatsappLink');
+
+            document.getElementById('productImg').src = imgSrc;
+            document.getElementById('productTitle').textContent = title;
+            document.getElementById('productDescription').textContent = description;
+            document.getElementById('productPrice').textContent = price;
+            document.getElementById('whatsappLink').href = whatsappLink;
+        });
+    </script>
+</body>
+</html>
