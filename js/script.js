@@ -632,6 +632,86 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 1.399,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20L200%20Triton%20Pajero%20Dakar%203.5%20V6%20Flex%202010%20lado%20Direito%20"
         },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Hb20_1.6_2015_2016_2017_2018_2019_2020-transformed.png",
+            title: "Catalisador Secundário Hb20 1.6 2015 2016 2017 2018 2019 2020",
+            description: "",
+            price: 'R$ 489,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Hb20%201.6%202015%202016%202017%202018%202019%202020%20"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Hb20_1.0_3cc_2015_2016_2017_2018_2019_2020-transformed.png",
+            title: "Catalisador Secundário Hb20 1.0 3cc 2015 2016 2017 2018 2019 2020",
+            description: "",
+            price: 'R$ 479,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Hb20%201.0%203cc%202015%202016%202017%202018%202019%202020"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Hyundai_I30_2.0_2008_2009_2010_2011_2012_2013-transformed.png",
+            title: "Catalisador Hyundai I30 2.0 2008 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 2.490,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Hyundai%20I30%202.0%202008%202009%202010%202011%202012%202013%20"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Hb20_1.6_I30_1.6_Creta_Veloster_Kia_Cerato_1.6_Soul-transformed.png",
+            title: "Catalisador Hb20 1.6 I30 1.6 Creta Veloster Kia Cerato 1.6 Soul",
+            description: "",
+            price: 'R$ 819,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Hb20%201.6%20I30%201.6%20Creta%20Veloster%20Kia%20Cerato%201.6%20Soul"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Fiesta_1.0_1.6_Ecosport_1.6_2009_2010_2011_2012_Focus_2008_2009-transformed.png",
+            title: "Catalisador Fiesta 1.0 1.6 Ecosport 1.6 2009 2010 2011 2012 Focus 2008 2009",
+            description: "",
+            price: 'R$ 979,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Fiesta%201.0%201.6%20Ecosport%201.6%202009%202010%202011%202012%20Focus%202008%202009"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Ecosport_Fiesta_Ka_1.5_1.6_Sigma-transformed.png",
+            title: "Catalisador Ecosport Fiesta Ka 1.5 1.6 Sigma",
+            description: "",
+            price: 'R$ 1.139,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ecosport%20Fiesta%20Ka%201.5%201.6%20Sigma%20"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Courier_1.6_2009_2010_2011_2012_2013-transformed.png",
+            title: "Catalisador Courier 1.6 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 1.099,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Courier%201.6%202009%202010%202011%202012%202013"
+        },
+        {
+            brand: "Honda",
+            imgSrc: "../images/catalysts/Catalisador_Civic_Honda_Crv_Gasolina_Com_Valvula_Egr-transformed.png",
+            title: "Catalisador Civic Honda Crv Gasolina Com Valvula Egr",
+            description: "",
+            price: 'R$ 2.299,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Civic%20Honda%20Crv%20Gasolina%20Com%20Valvula%20Egr"
+        },
+        {
+            brand: "Honda",
+            imgSrc: "../images/catalysts/Catalisador_Civic_1.8_2006_2007_2008_2009_2010_2011_2012_Flex-transformed.png",
+            title: "Catalisador Civic 1.8 2006 2007 2008 2009 2010 2011 2012 Flex",
+            description: "",
+            price: 'R$ 2.049,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Civic%201.8%202006%202007%202008%202009%202010%202011%202012%20Flex"
+        },
+        {
+            brand: "Honda",
+            imgSrc: "../images/catalysts/Catalisador_Civic_1.6_Lx_1997_1998_1999_2000-transformed.png",
+            title: "Catalisador Civic 1.6 Lx 1997 1998 1999 2000",
+            description: "",
+            price: 'R$ 1.369,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Civic%201.6%20Lx%201997%201998%201999%202000%20"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
