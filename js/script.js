@@ -560,6 +560,78 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 699,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Clio%201.0%202013%202014%202015%202016%20"
         },
+        {
+            brand: "Nissan",
+            imgSrc: "../images/catalysts/Catalisador_Versa_1.6_16v_March_1.6-transformed.png",
+            title: "Catalisador Versa 1.6 16v March 1.6",
+            description: "",
+            price: 'R$ 1.399,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Versa%201.6%2016v%20March%201.6%20"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Onix_Prisma_2013_2014_2015_2016_2017_2018_2019_2020-transformed.png",
+            title: "Catalisador Secundário Onix Prisma 2013 2014 2015 2016 2017 2018 2019 2020",
+            description: "",
+            price: 'R$ 499,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Onix%Prisma%202013%202014%202015%202016%202017%202018%202019%202020"
+        },
+        {
+            brand: "Lifan",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Lifan_X60_2013_2014_2015_2016-transformed.png",
+            title: "Catalisador Secundário Lifan X60 2013 2014 2015 2016",
+            description: "",
+            price: 'R$ 559,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Lifan%20X60%202013%202014%202015%202016%20"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Primário_Tucson_2.0_16v_Kia_Sportage_2.0_16v-transformed.png",
+            title: "Catalisador Primário Tucson 2.0 16v Kia Sportage 2.0 16v",
+            description: "",
+            price: 'R$ 1.999,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Tucson%202.0%2016v%20Kia%20Sportage%202.0%2016v"
+        },
+        {
+            brand: "Mitsubishi",
+            imgSrc: "../images/catalysts/Catalisador_Primario_Pajero_Tr4_2007_2008_2009_2010_2011_2012_2013_2014_2015-transformed.png",
+            title: "Catalisador Primario Pajero Tr4 2007 2008 2009 2010 2011 2012 2013 2014 2015",
+            description: "",
+            price: 'R$ 879,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Pajero%20Tr4%202007%202008%202009%202010%202011%202012%202013%202014%202015"
+        },
+        {
+            brand: "Lifan",
+            imgSrc: "../images/catalysts/Catalisador_Primario_Lifan_X60_2013_2014_2015_2016-transformed.png",
+            title: "Catalisador Primario Lifan X60 2013 2014 2015 2016",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Lifan%20X60%202013%202014%202015%202016%20"
+        },
+        {
+            brand: "Kia",
+            imgSrc: "../images/catalysts/Catalisador_Primário_Kia_Sportage_2.0_16v_Ix35_2.0_16v-transformed.png",
+            title: "Catalisador Primário Kia Sportage 2.0 16v Ix35 2.0 16v",
+            description: "",
+            price: 'R$ 1.599,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Kia%20Sportage%202.0%2016v%20Ix35%202.0%2016v"
+        },
+        {
+            brand: "Nissan",
+            imgSrc: "../images/catalysts/Catalisador_Nissan_Livina_Grand_Livina_Tiida_1.8_16v_Sentra_2.0_16v_2013_Em_Diante-transformed.png",
+            title: "Catalisador Nissan Livina Grand Livina Tiida 1.8 16v Sentra 2.0 16v 2013 Em Diante",
+            description: "",
+            price: 'R$ 1.499,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Nissan%20Livina%20Tiida%20Livina%201.8%2016v%20Sentra%202.0%2016v%202013%20Em%20Diante"
+        },
+        {
+            brand: "Mitsubishi",
+            imgSrc: "../images/catalysts/Catalisador_L200_Triton_Pajero_Dakar_3.5_V6_Flex_2010...lado_Direito-transformed.png",
+            title: "Catalisador L200 Triton Pajero Dakar 3.5 V6 Flex 2010 lado Direito",
+            description: "",
+            price: 'R$ 1.399,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20L200%20Triton%20Pajero%20Dakar%203.5%20V6%20Flex%202010%20lado%20Direito%20"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
