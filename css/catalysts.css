@@ -73,10 +73,9 @@ header img{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-wrap: wrap;
     background-color: #111111;
     padding-top: 98px;
-    padding-bottom: 98px;
 }
 
 .catalysts_cards{
@@ -87,7 +86,7 @@ header img{
     margin-top: 50px;
 }
 
-.catalysts_card{
+.catalysts_card{    
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -96,18 +95,19 @@ header img{
     height: 364px;
     background-color: #1C1C1C;
     box-shadow: 5px 5px 15px #080808, -5px -5px 15px #080808;
-    margin: 0 20px 0 20px;
+    margin: 20px;
     text-align: center;
     border-radius: 10px;
 }
 
 .catalysts_card img{
-    width: 140px;
-    height: 135px;
+    width: 130px;
+    height: 130px;
+    margin-top: 10px;
 }
 
 .catalysts_card h4{
-    font-size: 15px;
+    font-size: 13px;
     color: #F4BD67;
     margin: 20px 0 10px 0;
     width: 188px;
@@ -230,16 +230,27 @@ header img{
 .product-details-2 h2{
     font-size: 22px;
     margin: 20px 0;
+    width: 350px;
 }
 
 .product-details-2 p{
-    font-size: 18px;
-    margin: 20px 0 37px 0;
+    font-size: 15px;
+    margin: 15px 0 20px 0;
 }
 
 .product-details-2 h3{
-    font-size: 25px;
+    font-size: 20px;
 }
+
+.product-details-2 h4{
+    font-size: 25px;
+    margin: 20px 0;
+}
+
+.product-details-2 h5{
+    font-size: 18px;
+}
+
 
 .product-details-2 a{
     color: #fff;
@@ -261,6 +272,34 @@ header img{
     width: 39px;
     height: 39px;
 }
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.pagination button {
+    background-color: #1C1C1C;
+    color: #F4BD67;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.pagination button:hover {
+    background-color: #F4BD67;
+    color: #000;
+}
+
+.pagination button.active {
+    background-color: #F4BD67;
+    color: #000;
+}
+    
 
 @media(max-width: 769px){
     .product-details{

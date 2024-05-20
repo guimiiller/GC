@@ -399,30 +399,106 @@ document.addEventListener("DOMContentLoaded", function () {
             description: "(Recondicionado)",
             price: 'R$ 980,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Fiat%20Cronos%20Original%20(Recondicionado)"
-        }
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Yaris_1.5_2017_2018_2019_2020_2021-transformed.png",
+            title: "Catalisador Yaris 1.5 2017 2018 2019 2020 2021",
+            description: "",
+            price: 'R$ 1.199,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Yaris%201.5%202017%202018%202019%202020%202021"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Vw_Up_Tsi_2014_2015_2016_2017_2018_2019-transformed.png",
+            title: "Catalisador Vw Up Tsi 2014 2015 2016 2017 2018 2019",
+            description: "",
+            price: 'R$ 1.399,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Vw%20Up%20Tsi%202014%202015%202016%202017%202018%202019"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Vw_Up_1.0_Aspirado_3_Cil._12v_2014_2015_2016_2017_2018_2019-transformed.png",
+            title: "Catalisador Vw Up 1.0 Aspirado 3 Cil. 12v 2014 2015 2016 2017 2018 2019",
+            description: "",
+            price: 'R$ 869,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Vw%20Up%201.0%20Aspirado%203%20Cil.%2012v%202014%202015%202016%202017%202018%202019"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Vw_Tiguan_2.0_Tsi_Audi_Q3_2.0_Tsi-transformed.png",
+            title: "Catalisador Vw Tiguan 2.0 Tsi Audi Q3 2.0 Tsi",
+            description: "",
+            price: 'R$ 3.199,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Vw%20Tiguan%202.0%20Tsi%20Audi%20Q3%202.0%20Tsi%20"
+        },
+        {
+            brand: "Peugeot",
+            imgSrc: "../images/catalysts/Catalisador_Peugeot_2008_1.6-transformed.png",
+            title: "Catalisador Peugeot 2008 1.6",
+            description: "",
+            price: 'R$ 1.099,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Peugeot%202008%201.6%20"
+        },
+        {
+            brand: "Nissan",
+            imgSrc: "../images/catalysts/Catalisador_Nissan_Kicks_1.6_16v_2016_2017_2018_2019_2020_2021-transformed.png",
+            title: "Catalisador Nissan Kicks 1.6 16v 2016 2017 2018 2019 2020 2021",
+            description: "",
+            price: 'R$ 1.199,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Nissan%20Kicks%201.6%2016v%202016%202017%202018%202019%202020%202021"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Logan_1.6_16v_Sandero_1.6_16v_Duster_1.6_16v_Oroch_1.6_16v_Captur_1.6_16v_2017_2018_2019_2020-transformed.png",
+            title: "Catalisador Logan 1.6 16v Sandero 1.6 16v Duster 1.6 16v 2017 2018 2019 2020",
+            description: "",
+            price: 'R$ 1.199,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Logan%20Kicks%201.6%2016v%20Sandero%201.6%2016v%20Duster%201.6%2016v%20Oroch%201.6%2016v%20Captur%201.6%202017%202018%202019%202020"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Logan_1.0_3cc_Sandero_1.0_12v_3_Cilindros_2016_2017_2018_2019_2020-transformed.png",
+            title: "Catalisador Logan 1.0 3cc Sandero 1.0 12v 3 Cilindros 2016 2017 2018 2019 2020",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Logan%201.0%203cc%20Sandero%20Sandero%201.0%203%20Cilindros%202016%202017%202018%202019%202020%20"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Gol_1.0_8v_98_99_2000_2001_2002_2003_2004_2005_2006_Special_G2_G3-transformed.png",
+            title: "Catalisador Gol 1.0 8v 98 99 2000 2001 2002 2003 2004 2005 2006 Special G2 G3",
+            description: "",
+            price: 'R$ 779,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Gol%201.0%208v%2098%2099%202000%202001%202002%202003%202004%202005%202006%20Special%20G2%20G3"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Argo_1.0_3cc_Cronos_Uno_1.0_3cc_Mobi_1.0_3cc_2020_2021_2022_2023_3_Cilindros-transformed.png",
+            title: "Catalisador Argo 1.0 3cc Cronos Uno 1.0 3cc Mobi 1.0 3cc 2020 2021 2022 2023 3 Cilindros",
+            description: "",
+            price: 'R$ 769,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Argo%201.0%203cc%20Cronos%20Uno%201.0%203cc%20Mobi%201.0%203cc%202020%202021%202023%203%20Cilindros"
+        },
     ];
 
-    const cardsContainer = document.querySelector('.catalysts_container');
-    renderCards(catalysts, cardsContainer);
-
-    document.getElementById('brandFilter').addEventListener('change', filterCards);
-    document.getElementById('searchFilter').addEventListener('keyup', filterCards);
+    const cardsContainer = document.querySelector('#products-container');
+    const paginationContainer = document.querySelector('#pagination');
+    const itemsPerPage = 12;
+    let currentPage = 1;
 
     function renderCards(cards, container) {
         container.innerHTML = '';
-        const cardsGroups = splitIntoGroups(cards, 4);
+        const start = (currentPage - 1) * itemsPerPage;
+        const end = start + itemsPerPage;
+        const currentCards = cards.slice(start, end);
 
-        cardsGroups.forEach(group => {
-            const groupContainer = document.createElement('div');
-            groupContainer.classList.add('catalysts_cards');
-
-            group.forEach(card => {
-                const cardElement = createCardElement(card);
-                groupContainer.appendChild(cardElement);
-            });
-
-            container.appendChild(groupContainer);
+        currentCards.forEach(card => {
+            const cardElement = createCardElement(card);
+            container.appendChild(cardElement);
         });
+
+        renderPagination(cards.length);
     }
 
     function createCardElement(card) {
@@ -443,6 +519,25 @@ document.addEventListener("DOMContentLoaded", function () {
         return cardElement;
     }
 
+    function renderPagination(totalItems) {
+        paginationContainer.innerHTML = '';
+        const totalPages = Math.ceil(totalItems / itemsPerPage);
+
+        for (let i = 1; i <= totalPages; i++) {
+            const button = document.createElement('button');
+            button.textContent = i;
+            button.classList.add('pagination-button');
+            if (i === currentPage) {
+                button.classList.add('active');
+            }
+            button.addEventListener('click', () => {
+                currentPage = i;
+                filterCards();
+            });
+            paginationContainer.appendChild(button);
+        }
+    }
+
     function filterCards() {
         const input = document.getElementById('searchFilter').value.toUpperCase();
         const select = document.getElementById('brandFilter').value;
@@ -454,17 +549,13 @@ document.addEventListener("DOMContentLoaded", function () {
         renderCards(filteredCards, cardsContainer);
     }
 
-    function splitIntoGroups(array, groupSize) {
-        const groups = [];
-        for (let i = 0; i < array.length; i += groupSize) {
-            groups.push(array.slice(i, i + groupSize));
-        }
-        return groups;
-    }
+    renderCards(catalysts, cardsContainer);
+
+    document.getElementById('brandFilter').addEventListener('change', filterCards);
+    document.getElementById('searchFilter').addEventListener('keyup', filterCards);
 
     console.log("Documento carregado!");
 });
-
 animeScroll();
 window.addEventListener('scroll', animeScroll);
 
