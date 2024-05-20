@@ -712,6 +712,102 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 1.369,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Civic%201.6%20Lx%201997%201998%201999%202000%20"
         },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Uno_Mille_Flex_2006_2007_2008_2009_2010_2011_2012_2013-transformed.png",
+            title: "Catalisador Uno Mille Flex 2006 2007 2008 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 699,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Uno%20Mille%20Flex%202006%202007%202008%202009%202010%202011%202012%202013"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Uno_Fiorino_2001_2002_2003_2004_2005-transformed.png",
+            title: "Catalisador Uno Fiorino 2001 2002 2003 2004 2005",
+            description: "",
+            price: 'R$ 639,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Uno%20Fiorino%202001%202002%202003%202004%202005%20"
+        },
+        {
+            brand: "Honda",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Honda_City_Fit_1.4_1.5_2009_2010_2011_2012_2013_2014_2015-transformed.png",
+            title: "Catalisador Secundário Honda City Fit 1.4 1.5 2009 2010 2011 2012 2013 2014 2015",
+            description: "",
+            price: 'R$ 599,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Honda%20City%20Fit%201.4%201.5%202009%202010%202011%202012%202013%202014%202015"
+        },
+        {
+            brand: "Honda",
+            imgSrc: "../images/catalysts/Catalisador_Primário_Honda_City_Fit_1.4_1.5_2009_2010_2011_2012_2013_2014_2015-transformed.png",
+            title: "Catalisador Primário Honda City Fit 1.4 1.5 2009 2010 2011 2012 2013 2014 2015",
+            description: "",
+            price: 'R$ 1.029,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Honda%20City%20Fit%201.4%201.5%202009%202010%202011%202012%202013%202014%202015"
+        },
+        {
+            brand: "Honda",
+            imgSrc: "../images/catalysts/Catalisador_Primário_Honda_City_Fit_1.4_1.5_2009_2010_2011_2012_2013_2014_2015-transformed.png",
+            title: "Catalisador Primário Honda City Fit 1.4 1.5 2009 2010 2011 2012 2013 2014 2015",
+            description: "",
+            price: 'R$ 1.029,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Honda%20City%20Fit%201.4%201.5%202009%202010%202011%202012%202013%202014%202015"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Palio_Siena_Idea_Weekend_Punto_Strada_1.3_1.4_2005_2006_2007_2008-transformed.png",
+            title: "Catalisador Palio Siena Idea Weekend Punto Strada 1.3 1.4 2005 2006 2007 2008",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Palio%20Siena%20Idea%20Weekend%20Punto%201.3%201.4%202005%202006%202007%202008%20"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Palio_Siena_1.0_8v_Fire_Flex_2005_2006_2007_2008-transformed.png",
+            title: "Catalisador Palio Siena 1.0 8v Fire Flex 2005 2006 2007 2008",
+            description: "",
+            price: 'R$ 799,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Palio%20Siena%201.0%208v%20Fire%20Flex%202005%202006%202007%202008%20"
+        },
+        {
+            brand: "Jeep",
+            imgSrc: "../images/catalysts/Catalisador_Jeep_Renegade_Fiat_Toro_1.8-transformed.png",
+            title: "Catalisador Jeep Renegade Fiat Toro 1.8",
+            description: "",
+            price: 'R$ 1.199,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Jeep%20Renegade%20Fiat%20Toro%201.8%20"
+        },
+        {
+            brand: "Honda",
+            imgSrc: "../images/catalysts/Catalisador_Honda_Fit_2003_2004_2005_2006_2007_2008-transformed.png",
+            title: "Catalisador Honda Fit 2003 2004 2005 2006 2007 2008",
+            description: "",
+            price: 'R$ 759,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Honda%20Fit%202003%202004%202005%202006%202007%202008"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Grand_Siena_1.4_2011_2012_2013_2014_Palio_1.4_Evo_2012_2013_2014-transformed.png",
+            title: "Catalisador Grand Siena 1.4 2011 2012 2013 2014 Palio 1.4 Evo 2012 2013 2014",
+            description: "",
+            price: 'R$ 929,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Grand%20Siena%201.4%202011%202012%202013%202014%20Palio%201.4%20Evo%202012%202013%202014"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Fusion_2.3_2.5_2006_2007_2008_2009_2010_2011_2012-transformed.png",
+            title: "Catalisador Fusion 2.3 2.5 2006 2007 2008 2009 2010 2011 2012",
+            description: "",
+            price: 'R$ 1.199,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Fusion%202.3%202.5%202006%202007%202008%202009%202010%202011%202012%20"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Ford_Ka_2009_2010_2011_2012_2013-transformed.png",
+            title: "Catalisador Ford Ka 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 1.099,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ford%20Ka%202009%202010%202011%202012%202013%20"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
