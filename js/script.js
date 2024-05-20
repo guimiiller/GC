@@ -480,6 +480,86 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 769,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Argo%201.0%203cc%20Cronos%20Uno%201.0%203cc%20Mobi%201.0%203cc%202020%202021%202023%203%20Cilindros"
         },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Cobalt_Spin_2013_2014_2015_2016_2017_2018_2019_2020-transformed.png",
+            title: "Catalisador Secundário Cobalt Spin 2013 2014 2015 2016 2017 2018 2019 2020",
+            description: "",
+            price: 'R$ 499,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Cobalt%20Spin%202013%202014%202015%202016%202017%202018%202019%202020"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Scenic_Megane_1999_2000_2001_2002_2003_2004_2005-transformed.png",
+            title: "Catalisador Scenic Megane 1999 2000 2001 2002 2003 2004 2005",
+            description: "",
+            price: 'R$ 999,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Scenic%20Megane%201999%202000%202001%202002%202003%202004%202005%20"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Saveiro_1.6_16v_Fox_1.6_16v_Gol_1.6_16v_Voyage_1.6_16v_2015_2016_2017_2018_2019_2020_2021-transformed.png",
+            title: "Catalisador Saveiro 1.6 16v Fox 1.6 16v Gol 1.6 16v Voyage 1.6 16v 2015 2016 2017 2018 2019 2020 2021",
+            description: "",
+            price: 'R$ 1,359,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Saveiro%201.6%2016v%20Fox%201.6%2016v%20Voyage%201.6%2016v%202015%202016%202017%202018%202019%202020%202021"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Sandero_1.6_16v_Logan_1.6_16v_Duster_1.6_16v-transformed.png",
+            title: "Catalisador Sandero 1.6 16v Logan 1.6 16v Duster 1.6 16v",
+            description: "",
+            price: 'R$ 679,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Sandero%201.6%2016v%20Logan%201.6%2016v%20Duster%201.6%2016v%20"
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Primário_Etios_1.3_1.5_20012_2013_2014_2015_2016-transformed.png",
+            title: "Catalisador Primário Etios 1.3 1.5 2012 2013 2014 2015 2016",
+            description: "",
+            price: 'R$ 765,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Etios%201.3%201.5%202013%202014%202015%202016%20"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Kwid_1.0_3cc_2018_2019_2020_2021-transformed.png",
+            title: "Catalisador Kwid 1.0 3cc 2018 2019 2020 2021",
+            description: "",
+            price: 'R$ 989,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Kwid%201.0%203cc%202018%202019%202020%202021%20"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Gol_Voyage_Fox_1.0_12v_3cilindros_G6_G7_G8_Polo_1.0_3cc_aspirado_Virtus-transformed.png",
+            title: "Catalisador Gol Voyage Fox 1.0 12v 3 cilindros G6 G7 G8 Polo 1.0 3cc aspirado Virtus",
+            description: "",
+            price: 'R$ 819,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Gol%20Voyage%20Fox%201.0%2012v%203%20cilindros%20G6%20G7%20G8%20Polo%201.0%203cc%20aspirado%20Virtus"
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Etios_2017_2018_2019_2020_2021-transformed.png",
+            title: "Catalisador Etios 2017 2018 2019 2020 2021",
+            description: "",
+            price: 'R$ 1.129,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Etios%202017%202018%202019%202020%202021%20"
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Duplo_Hilux_2.7_Gasolina_2009_2010_2011_2012_2013_2014_2015_2016_2017-transformed.png",
+            title: "Catalisador Duplo Hilux 2.7 Gasolina 2009 2010 2011 2012 2013 2014 2015 2016 2017",
+            description: "",
+            price: 'R$ 2.199,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Duplo%20Hilux%202.7%20Gasolina%202009%202010%20%202011%202012%202013%202014%202015%202016%202017"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Clio_1.0_2013_2014_2015_2016-transformed.png",
+            title: "Catalisador Clio 1.0 2013 2014 2015 2016",
+            description: "",
+            price: 'R$ 699,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Clio%201.0%202013%202014%202015%202016%20"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
