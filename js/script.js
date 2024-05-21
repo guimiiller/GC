@@ -1048,6 +1048,126 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 39,90',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Junta%20Catalisador%20Hyundai%20Hb20%201.6%20Creta%20Veloster%20I30%20Kia%20Soul%20Cerato%201.6%202"
         },
+        {
+            brand: "Honda",
+            imgSrc: "../images/catalysts/Silencioso_Escapamento_Traseiro_Honda_Fit_2003_2004_2005_2006_2007_2008-transformed.png",
+            title: "Silencioso Escapamento Traseiro Honda Fit 2003 2004 2005 2006 2007 2008",
+            description: "",
+            price: 'R$ 126,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Silencioso%20Escapamento%20Traseiro%20Honda%20Fit%202003%202004%202005%202006%202007%202008"
+        },
+        {
+            brand: "Nissan",
+            imgSrc: "../images/catalysts/Catalisador_Versa_1.0_3_Cilindros_3cc_2015_2016_2017_2018_2019_2020_2021_March_1.0_3_Cilindros_3cc-transformed.png",
+            title: "Catalisador Versa 1.0 3 Cilindros 3cc 2015 2016 2017 2018 2019 2020 2021 March 1.0 3 Cilindros 3cc",
+            description: "",
+            price: 'R$ 1.099,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Versa%201.0%203%20Cilindros%203cc%202015%202016%202017%202018%202019%202020%202021%20March%201.0%203%20Cilindros%203cc"
+        },
+        {
+            brand: "Citroen",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Vtr_C4_Hatch_Pallas_C4_Picasso_Peugeot_307_308_408_2.0_16v_2006_2007_2008_2009_10_2011_2012_2013-transformed.png",
+            title: "Catalisador Secundário Vtr C4 Hatch Pallas C4 Picasso Peugeot 307 308 408 2.0 16v 2006 2007 2008 2009 10 2011 2012 2013",
+            description: "",
+            price: 'R$ 969,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Vtr%20C4%20Hatch%20Pallas%20C4%20Picasso%20Peugeot%20307%20308%20408%202.0%2016v%202006%202007%202008%202009%2010%202011%202012%202013"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Gol_Parati_Saveiro_Santana_1.6_1.8_2.0-transformed.png",
+            title: "Catalisador Secundário Gol Parati Saveiro Santana 1.6 1.8 2.0",
+            description: "",
+            price: 'R$ 589,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Secundário%20Gol%20Parati%20Saveiro%20Santana%201.6%201.8%202.0"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Palio_1.0_Siena_1.0_Uno_1.0_Evo_2010_2011_2012_2013_2014-transformed.png",
+            title: "Catalisador Palio 1.0 Siena 1.0 Uno 1.0 Evo 2010 2011 2012 2013 2014",
+            description: "",
+            price: 'R$ 789,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Palio%201.0%20Siena%201.0%20Uno%201.0%20Evo%202010%202011%202012%202013%202014"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Kombi_1.4_2009_2010_2011_2012_2013_2014_2_Encaixes_Sonda-transformed.png",
+            title: "Catalisador Kombi 1.4 2009 2010 2011 2012 2013 2014 2 Encaixes Sonda",
+            description: "",
+            price: 'R$ 749,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Kombi%201.4%202009%202010%202011%202012%202013%202014%202%20Encaixes%20Sonda"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Kombi_1.4_2006_2007_2008-transformed.png",
+            title: "Catalisador Kombi 1.4 2006 2007 2008",
+            description: "",
+            price: 'R$ 669,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Kombi%201.4%202006%202007%202008"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Hyundai_Elantra_2014_2015_2016_2017_2018_2019-transformed.png",
+            title: "Catalisador Hyundai Elantra 2014 2015 2016 2017 2018 2019",
+            description: "",
+            price: 'R$ 1.899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Hyundai%20Elantra%202014%202015%202016%202017%202018%202019"
+        },
+        {
+            brand: "Honda",
+            imgSrc: "../images/catalysts/Catalisador_Honda_Hrv_1.8_16v_2015_2016_2017_2018_2019_2020-transformed.png",
+            title: "Catalisador Honda Hrv 1.8 16v 2015 2016 2017 2018 2019 2020",
+            description: "",
+            price: 'R$ 2.429,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Honda%20Hrv%201.8%2016v%202015%202016%202017%202018%202019%202020"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Gol_Parati_Saveiro_Santana_1.6_1.8_2.0-transformed.png",
+            title: "Catalisador Gol Parati Saveiro Santana 1.6 1.8 2.0",
+            description: "",
+            price: 'R$ 679,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Gol%20Parati%20Saveiro%20Santana%201.6%201.8%202.0"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Gol_1.0_8v_G4_2010_2011_2012_2013_2_Encaixes_Sonda-transformed.png",
+            title: "Catalisador Gol 1.0 8v G4 2010 2011 2012 2013 2 Encaixes Sonda",
+            description: "",
+            price: 'R$ 879,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Gol%201.0%208v%20G4%202010%202011%202012%202013%202%20Encaixes%20Sonda"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Ford_Ka_1.0_3_Cilindros_3cc_2015_2016_2017_2018_2019_2020_Flange_na_Saida-transformed.png",
+            title: "Catalisador Ford Ka 1.0 3 Cilindros 3cc 2015 2016 2017 2018 2019 2020 Flange na Saida",
+            description: "",
+            price: 'R$ 1.599,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ford%20Ka%201.0%203%20Cilindros%203cc%202015%202016%202017%202018%202019%202020%20Flange%20na%20Saida"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Ecosport_2.0_16v_4x2_2013_2014_2015_2016_2017_2018_2019-transformed.png",
+            title: "Catalisador Ecosport 2.0 16v 4x2 2013 2014 2015 2016 2017 2018 2019",
+            description: "",
+            price: 'R$ 2.299,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ecosport%202.0%2016v%204x2%202013%202014%202015%202016%202017%202018%202019"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Creta_2.0_16v_2017_2018_2019_2020_2021-transformed.png",
+            title: "Catalisador Creta 2.0 16v 2017 2018 2019 2020 2021",
+            description: "",
+            price: 'R$ 1.899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Creta%202.0%2016v%202017%202018%202019%202020%202021"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Corsa_Celta_Prisma_Classic_1.0-transformed.png",
+            title: "Catalisador Corsa Celta Prisma Classic 1.0",
+            description: "",
+            price: 'R$ 849,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Corsa%20Celta%20Prisma%20Classic%201.0"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
