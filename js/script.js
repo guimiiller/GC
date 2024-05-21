@@ -1168,6 +1168,126 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 849,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Corsa%20Celta%20Prisma%20Classic%201.0"
         },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Coletor_Catalisador_Fox_1.0_2006_2007_2008-transformed.png",
+            title: "Coletor Catalisador Fox 1.0 2006 2007 2008",
+            description: "",
+            price: 'R$ 859,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Coletor%20Catalisador%20Fox%201.0%202006%202007%202008"
+        },
+        {
+            brand: "Universal",
+            imgSrc: "../images/catalysts/Catalisador_Universal_Grande_1.6_1.8_2.0_2.2_2.4_-_para_Adaptação-transformed.png",
+            title: "Catalisador Universal Grande 1.6 1.8 2.0 2.2 2.4 - para Adaptação",
+            description: "",
+            price: 'R$ 669,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Universal%20Grande%201.6%201.8%202.0%202.2%202.4%20-%20para%20Adaptação"
+        },
+        {
+            brand: "Universal",
+            imgSrc: "../images/catalysts/Catalisador_Universal_1.0_1.1_1.2_para_Adaptação-transformed.png",
+            title: "Catalisador Universal 1.0 1.1 1.2 para Adaptação",
+            description: "",
+            price: 'R$ 529,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Universal%201.0%201.1%201.2%20para%20Adaptação"
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Toyota_Rav4_2011_2012_2013_2014_2015_2016-transformed.png",
+            title: "Catalisador Toyota Rav4 2011 2012 2013 2014 2015 2016",
+            description: "",
+            price: 'R$ 3.199,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Toyota%20Rav4%202011%202012%202013%202014%202015%202016"
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Toyota_Rav4_2.0_16v_2004_2005_2006_Rav4_2.4_16v_2007_2008_2009_2010-transformed.png",
+            title: "Catalisador Toyota Rav4 2.0 16v 2004 2005 2006 Rav4 2.4 16v 2007 2008 2009 2010",
+            description: "",
+            price: 'R$ 3.099,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Toyota%20Rav4%202.0%2016v%202004%202005%202006%20Rav4%202.4%2016v%202007%202008%202009%202010"
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Etios_Sedan_20012_2013_2014_2015_2016-transformed.png",
+            title: "Catalisador Secundário Etios Sedan 2012 2013 2014 2015 2016",
+            description: "",
+            price: 'R$ 849,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Etios%20Sedan%202012%202013%202014%202015%202016"
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Etios_Hatch_20012_2013_2014_2015_2016-transformed.png",
+            title: "Catalisador Secundário Etios Hatch 2012 2013 2014 2015 2016",
+            description: "",
+            price: 'R$ 729,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Etios%20Hatch%202012%202013%202014%202015%202016"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Sandero_1.6_8v_Logan_1.6_8v-transformed.png",
+            title: "Catalisador Sandero 1.6 8v Logan 1.6 8v",
+            description: "",
+            price: 'R$ 729,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Sandero%201.6%208v%20Logan%201.6%208v"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Sandero_1.0_16v_Logan_1.0_16v_4_Cilindros-transformed.png",
+            title: "Catalisador Sandero 1.0 16v Logan 1.0 16v 4 Cilindros",
+            description: "",
+            price: 'R$ 639,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Sandero%201.0%2016v%20Logan%201.0%2016v%204%20Cilindros"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Megane_Sedan_Gran_Tour_1.6_2.0_2006_2007_2008_2009_2010_2011_2012_2013-transformed.png",
+            title: "Catalisador Megane Sedan Gran Tour 1.6 2.0 2006 2007 2008 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 749,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Megane%20Sedan%20Gran%20Tour%201.6%202.0%202006%202007%202008%202009%202010%202011%202012%202013"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Gol_Voyage_Saveiro_G5_G6_Fox_Spacefox_Crossfox_Golf-transformed.png",
+            title: "Catalisador Gol Voyage Saveiro G5 G6 Fox Spacefox Crossfox Golf",
+            description: "",
+            price: 'R$ 799,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Gol%20Voyage%20Saveiro%20G5%20G6%20Fox%20Spacefox%20Crossfox%20Golf"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Gol_1.0_8v_2001_2002_2003_2004_2005_2006_2007_2008_2009_Power_Trend-transformed.png",
+            title: "Catalisador Gol 1.0 8v 2001 2002 2003 2004 2005 2006 2007 2008 2009 Power Trend",
+            description: "",
+            price: 'R$ 699,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Gol%201.0%208v%202001%202002%202003%202004%202005%202006%202007%202008%202009%20Power%20Trend"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Fox_1.0_2003_2004_2005-transformed.png",
+            title: "Catalisador Fox 1.0 2003 2004 2005",
+            description: "",
+            price: 'R$ 839,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Fox%201.0%202003%202004%202005"
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Corolla_2009_2010_2011_2012_2013_2014_2015_2016_2017_2018_2019_2020-transformed.png",
+            title: "Catalisador Corolla 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020",
+            description: "",
+            price: 'R$ 1.349,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Corolla%202009%202010%202011%202012%202013%202014%202015%202016%202017%202018%202019%202020"
+        },
+        {
+            brand: "Toyota",
+            imgSrc: "../images/catalysts/Catalisador_Corolla_2002_2003_2004_2005_2006_2007_2008-transformed.png",
+            title: "Catalisador Corolla 2002 2003 2004 2005 2006 2007 2008",
+            description: "",
+            price: 'R$ 699,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Corolla%202002%202003%202004%202005%202006%202007%202008"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
