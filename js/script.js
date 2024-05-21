@@ -928,6 +928,126 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 799,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Argo%201.0%203cc%20Uno%201.0%203cc%20Mobi%201.0%203cc"
         },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Virtus_Polo_1.6_16v_2017_2018_2019_2020_2021_2022_2023-transformed.png",
+            title: "Catalisador Virtus Polo 1.6 16v 2017 2018 2019 2020 2021 2022 2023",
+            description: "",
+            price: 'R$ 1.399,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Virtus%20Polo%201.6%2016v%202017%202018%202019%202020%202021%202022%202023"
+        },
+        {
+            brand: "Suzuki",
+            imgSrc: "../images/catalysts/Catalisador_Suzuki_Sx4_2.0_16v_2007_2008_2009_2010_2011_2012_2013_2014_2015-transformed.png",
+            title: "Catalisador Suzuki Sx4 2.0 16v 2007 2008 2009 2010 2011 2012 2013 2014 2015",
+            description: "",
+            price: 'R$ 1.299,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Suzuki%20Sx4%202.0%2016v%202007%202008%202009%202010%202011%202012%202013%202014%202015"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Captiva_2.4_2011_2012_2013_2014_2015_2016-transformed.png",
+            title: "Catalisador Secundário Captiva 2.4 2011 2012 2013 2014 2015 2016",
+            description: "",
+            price: 'R$ 869,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Captiva%202.4%202011%202012%202013%202014%202015%202016"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Primário_S10_2.5_Flex_2013_2014_2015_2016_2017_2018-transformed.png",
+            title: "Catalisador Primário S10 2.5 Flex 2013 2014 2015 2016 2017 2018",
+            description: "",
+            price: 'R$ 2.119,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20S10%202.5%20Flex%202013%202014%202015%202016%202017%202018"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Polo_Nivus_Virtus_TCross_1.0_Tsi_3cc_2018_2019_2020_2021_3_Cilindros-transformed.png",
+            title: "Catalisador Polo Nivus Virtus TCross 1.0 Tsi 3cc 2018 2019 2020 2021 3 Cilindros",
+            description: "",
+            price: 'R$ 2.049,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Polo%20Nivus%20Virtus%20TCross%201.0%20Tsi%203cc%202018%202019%202020%202021%203%20Cilindros"
+        },
+        {
+            brand: "Peugeot",
+            imgSrc: "../images/catalysts/Catalisador_Peugeot_208_1.0_3_Cilindros_C3_1.0_Firefly_3cc-transformed.png",
+            title: "Catalisador Peugeot 208 1.0 3 Cilindros C3 1.0 Firefly 3cc",
+            description: "",
+            price: 'R$ 919,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Peugeot%20208%201.0%203%20Cilindros%20C3%201.0%20Firefly%203cc"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Onix_1.0_12v_3_Cilindros_Aspirado_3cc_2020_20212022-transformed.png",
+            title: "Catalisador Onix 1.0 12v 3 Cilindros Aspirado 3cc 2020 2021 2022",
+            description: "",
+            price: 'R$ 1.679,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Onix%201.0%2012v%203%20Cilindros%20Aspirado%203cc%202020%202021%202022"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Onix_1.0_3cc_12v_Turbo_Tracker_1.0_3cc_e_1.2_Turbo_2020_2021_2022_2023_3_cilindros-transformed.png",
+            title: "Catalisador Onix 1.0 3cc 12v Turbo Tracker 1.0 3cc e 1.2 Turbo 2020 2021 2022 2023 3 cilindros",
+            description: "",
+            price: 'R$ 1.490,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Onix%201.0%203cc%2012v%20Turbo%20Tracker%201.0%203cc%20e%201.2%20Turbo%202020%202021%202022%202023%203%20cilindros"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Jetta_2.0_16v_211cv_New_Beatle_2013_2014_2015_2016_2017_2018-transformed.png",
+            title: "Catalisador Jetta 2.0 16v 211cv New Beatle 2013 2014 2015 2016 2017 2018",
+            description: "",
+            price: 'R$ 3.249,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Jetta%202.0%2016v%20211cv%20New%20Beatle%202013%202014%202015%202016%202017%202018"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Ford_Ka_1.0_3_Cilindros_3_cc_2015_2016_2017_2018_2019_2020_Bocal_na_Saida-transformed.png",
+            title: "Catalisador Ford Ka 1.0 3 Cilindros 3 cc 2015 2016 2017 2018 2019 2020 Bocal na Saida",
+            description: "",
+            price: 'R$ 1.599,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ford%20Ka%201.0%203%20Cilindros%203%20cc%202015%202016%202017%202018%202019%202020%20Bocal%20na%20Saida"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Ecosport_1.6_Fiesta_1.0_1.6_2003_2004_2005_2006_2007_2008_Fiesta-transformed.png",
+            title: "Catalisador Ecosport 1.6 Fiesta 1.0 1.6 2003 2004 2005 2006 2007 2008 Fiesta",
+            description: "",
+            price: 'R$ 599,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ecosport%201.6%20Fiesta%201.0%201.6%202003%202004%202005%202006%202007%202008%20Fiesta"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Cruze_1.4_16v_Turbo_Flex_2017_2018_2019_2020_2021_Tracker_1.4-transformed.png",
+            title: "Catalisador Cruze 1.4 16v Turbo Flex 2017 2018 2019 2020 2021 Tracker 1.4",
+            description: "",
+            price: 'R$ 1.899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Cruze%201.4%2016v%20Turbo%20Flex%202017%202018%202019%202020%202021%20Tracker%201.4"
+        },
+        {
+            brand: "Citroen",
+            imgSrc: "../images/catalysts/Catalisador_Aircross_e_C3_1.6_16v_Peugeot_208_2021_2022_2023-transformed.png",
+            title: "Catalisador Aircross e C3 1.6 16v Peugeot 208 2021 2022 2023",
+            description: "",
+            price: 'R$ 1.099,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Aircross%20e%20C3%201.6%2016v%20Peugeot%20208%202021%202022%202023"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Junta_Catalisador_Hyundai_Hb20_1.6_Creta_Veloster_I30_Kia_Soul_Cerato_1.6-transformed.png",
+            title: "Junta Catalisador Hyundai Hb20 1.6 Creta Veloster I30 Kia Soul Cerato 1.6",
+            description: "",
+            price: 'R$ 15,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Junta%20Catalisador%20Hyundai%20Hb20%201.6%20Creta%20Veloster%20I30%20Kia%20Soul%20Cerato%201.6"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Junta_Catalisador_Hyundai_Hb20_1.6_Creta_Veloster_I30_Kia_Soul_Cerato_1.62-transformed.png",
+            title: "Junta Catalisador Hyundai Hb20 1.6 Creta Veloster I30 Kia Soul Cerato 1.6 2",
+            description: "",
+            price: 'R$ 39,90',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Junta%20Catalisador%20Hyundai%20Hb20%201.6%20Creta%20Veloster%20I30%20Kia%20Soul%20Cerato%201.6%202"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
