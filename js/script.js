@@ -808,6 +808,126 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 1.099,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ford%20Ka%202009%202010%202011%202012%202013%20"
         },
+        {
+            brand: "Dodge",
+            imgSrc: "../images/catalysts/Catalisador_Traseiro_Dodge_Journey_2.7_V6_2007_2008_2009_2010-transformed.png",
+            title: "Catalisador Traseiro Dodge Journey 2.7 V6 2007 2008 2009 2010",
+            description: "",
+            price: 'R$ 2.569,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Traseiro%20Dodge%20Journey%202.7%20V6%202007%202008%202009%202010"
+        },
+        {
+            brand: "Peugeot",
+            imgSrc: "../images/catalysts/Catalisador_Primário_Peugeot_308_2.0_408_3008_Citroen_C4_2.0_Grand_Picasso-transformed.png",
+            title: "Catalisador Primário Peugeot 308 2.0 408 3008 Citroen C4 2.0 Grand Picasso",
+            description: "",
+            price: 'R$ 2.039,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Peugeot%20308%202.0%20408%203008%20Citroen%20C4%202.0%20Grand%20Picasso"
+        },
+        {
+            brand: "Peugeot",
+            imgSrc: "../images/catalysts/Catalisador_Peugeot_307_1.6_308_1.6_Citroen_C4_1.6-transformed.png",
+            title: "Catalisador Peugeot 307 1.6 308 1.6 Citroen C4 1.6",
+            description: "",
+            price: 'R$ 689,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Peugeot%20307%201.6%20308%201.6%20Citroen%20C4%201.6%20"
+        },
+        {
+            brand: "MINI",
+            imgSrc: "../images/catalysts/Catalisador_Mini_Cooper_1.6_Thp_Peugeot_208_2008_308_3008_408_508_Rcz_Citroen_C4_Lounge_C5_Ds3_Ds4_Ds5-transformed.png",
+            title: "Catalisador Mini Cooper 1.6 Thp Peugeot 208 2008 308 3008 408 508 Rcz Citroen C4 C5",
+            description: "",
+            price: 'R$ 1.479,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Mini%20Cooper%201.6%20Thp%20Peugeot%20208%202008%20308%203008%20408%20508%20Rcz%20Citroen%20C4%20Lounge%20C5%20Ds3%20Ds4%20Ds5"
+        },
+        {
+            brand: "Suzuki",
+            imgSrc: "../images/catalysts/Catalisador_Grand_Vitara_2.0_2009_2010_2011_2012_2013_2014_2015_2016_2017_2018-transformed.png",
+            title: "Catalisador Grand Vitara 2.0 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018",
+            description: "",
+            price: 'R$ 849,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Grand%20Vitara%202.0%202009%202010%202011%202012%202013%202014%202015%202016%202017%202018%20"
+        },
+        {
+            brand: "Volkswagen",
+            imgSrc: "../images/catalysts/Catalisador_Gol_Fusca_Voyage_Kombi_Saveiro_Santana_Apollo_Parati_Escort_Pampa_Versailles_Royale_Autolatina-transformed.png",
+            title: "Catalisador Gol Fusca Voyage Kombi Saveiro Santana Apollo Parati Escort Pampa Versailles Royale Autolatina",
+            description: "",
+            price: 'R$ 399,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Gol%20Fusca%20Voyage%20Kombi%20Saveiro%20Santana%20Apollo%20Parati%20Escort%20Pampa%20Versailles%20Royale%20Autolatina%20"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Ford_Ecosport_2.0_4x2_2003_à_2009-transformed.png",
+            title: "Catalisador Ford Ecosport 2.0 4x2 2003 à 2009",
+            description: "",
+            price: 'R$ 999,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ford%20Ecosport%202.0%204x2%202003%20à%202009%20"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Focus_2.0_16v_2009_2010_2011_2012_2013-transformed.png",
+            title: "Catalisador Focus 2.0 16v 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 1.289,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Focus%202.0%2016v%202009%202010%202011%202012%202013"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Focus_1.6_2009_2010_2011_2012_2013-transformed.png",
+            title: "Catalisador Focus 1.6 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 1.299,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Focus%201.6%202009%202010%202011%202012%202013%20"
+        },
+        {
+            brand: "Ford",
+            imgSrc: "../images/catalysts/Catalisador_Ecosport_Fiesta_Ford_Ka_1.5_3cc_2015_2016_2017_2018_2019_2020_2021-transformed.png",
+            title: "Catalisador Ecosport Fiesta Ford Ka 1.5 3cc 2015 2016 2017 2018 2019 2020 2021",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ecosport%20Fiesta%20Ford%20Ka%201.5%203cc%202015%202016%202017%202018%202019%202020%202021"
+        },
+        {
+            brand: "Dodge",
+            imgSrc: "../images/catalysts/Catalisador_Dianteiro_Dodge_Journey_2.7_V6_2007_2008_2009_2010-transformed.png",
+            title: "Catalisador Dianteiro Dodge Journey 2.7 V6 2007 2008 2009 2010",
+            description: "",
+            price: 'R$ 2.599,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Dianteiro%20Dodge%20Journey%202.7%20V6%202007%202008%202009%202010%20"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Cruze_1.8_Tracker_Sonic-transformed.png",
+            title: "Catalisador Cruze 1.8 Tracker Sonic",
+            description: "",
+            price: 'R$ 1.299,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Cruze%201.8%20Tracker%20Sonic%20"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Argo_Cronos_Strada_Uno_1.3_2020_2021_2022_2023_2024-transformed.png",
+            title: "Catalisador Argo Cronos Strada Uno 1.3 2020 2021 2022 2023 2024",
+            description: "",
+            price: 'R$ 1.039,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Argo%20Cronos%20Strada%20Uno%201.3%202020%202021%202022%202023%202024"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Argo_Cronos_Strada_Uno_1.3_2017_2018_2019-transformed.png",
+            title: "Catalisador Argo Cronos Strada Uno 1.3 2017 2018 2019",
+            description: "",
+            price: 'R$ 1.039,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Argo%20Cronos%20Strada%20Uno%201.3%202017%202018%202019"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Argo_1.0_3cc_Uno_1.0_3cc_Mobi_1.0_3cc-transformed.png",
+            title: "Catalisador Argo 1.0 3cc Uno 1.0 3cc Mobi 1.0 3cc",
+            description: "",
+            price: 'R$ 799,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Argo%201.0%203cc%20Uno%201.0%203cc%20Mobi%201.0%203cc"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');

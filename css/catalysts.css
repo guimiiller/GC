@@ -277,6 +277,7 @@ header img{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     margin: 20px 0;
 }
 
@@ -285,7 +286,7 @@ header img{
     color: #F4BD67;
     border: none;
     padding: 10px 20px;
-    margin: 0 5px;
+    margin: 5px 5px;
     cursor: pointer;
     transition: background-color 0.3s;
 }
