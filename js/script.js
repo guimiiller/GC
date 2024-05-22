@@ -1288,6 +1288,126 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 699,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Corolla%202002%202003%202004%202005%202006%202007%202008"
         },
+        {
+            brand: "Nissan",
+            imgSrc: "../images/catalysts/Catalisador_Sentra_2007_2008_2009_2010_2011_2012-transformed.png",
+            title: "Catalisador Sentra 2007 2008 2009 2010 2011 2012",
+            description: "",
+            price: 'R$ 1.299,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Sentra%202007%202008%202009%202010%202011%202012"
+        },
+        {
+            brand: "Mitsubishi",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Pajero_Tr4_2007_2008_2009_2010_2011_2012_2013_2014_2015-transformed.png",
+            title: "Catalisador Secundário Pajero Tr4 2007 2008 2009 2010 2011 2012 2013 2014 2015",
+            description: "",
+            price: 'R$ 699,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Pajero%20Tr4%202007%202008%202009%202010%202011%202012%202013%202014%202015"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Renault_Duster_2.0_4x2-transformed.png",
+            title: "Catalisador Renault Duster 2.0 4x2",
+            description: "",
+            price: 'R$ 919,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Renault%20Duster%202.0%204x2"
+        },
+        {
+            brand: "Peugeot",
+            imgSrc: "../images/catalysts/Catalisador_Primário_Peugeot_307_2.0_16v-transformed.png",
+            title: "Catalisador Primário Peugeot 307 2.0 16v",
+            description: "",
+            price: 'R$ 2.299,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Peugeot%20307%202.0%2016v"
+        },
+        {
+            brand: "Peugeot",
+            imgSrc: "../images/catalysts/Catalisador_Peugeot_207_1.4_8v1.6_16v_Hatch_Sedan_Sw_Hoggar_C4_Cactus-transformed.png",
+            title: "Catalisador Peugeot 207 1.4 8v 1.6 16v Hatch Sedan Sw Hoggar C4 Cactus",
+            description: "",
+            price: 'R$ 699,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Peugeot%20207%201.4%208v%201.6%2016v%20Hatch%20Sedan%20Sw%20Hoggar%20C4%20Cactus"
+        },
+        {
+            brand: "Peugeot",
+            imgSrc: "../images/catalysts/Catalisador_Peugeot_206_1.4_1.6_206_Sw_1.4_1.6-transformed.png",
+            title: "Catalisador Peugeot 206 1.4 1.6 206 Sw 1.4 1.6",
+            description: "",
+            price: 'R$ 849,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Peugeot%20206%201.4%201.6%20206%20Sw%201.4%201.6"
+        },
+        {
+            brand: "Mitsubishi",
+            imgSrc: "../images/catalysts/Catalisador_Pajero_Sport_Hpe_3.5_4x4_2007_Em_Diante_Lado_Esquerdo-transformed.png",
+            title: "Catalisador Pajero Sport Hpe 3.5 4x4 2007 Em Diante Lado Esquerdo",
+            description: "",
+            price: 'R$ 1.499,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Pajero%20Sport%20Hpe%203.5%204x4%202007%20Em%20Diante%20Lado%20Esquerdo"
+        },
+        {
+            brand: "Mitsubishi",
+            imgSrc: "../images/catalysts/Catalisador_Pajero_Sport_Hpe_3.5_4x4_2007_Em_Diante_Lado_Direito-transformed.png",
+            title: "Catalisador Pajero Sport Hpe 3.5 4x4 2007 Em Diante Lado Direito",
+            description: "",
+            price: 'R$ 1.699,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Pajero%20Sport%20Hpe%203.5%204x4%202007%20Em%20Diante%20Lado%20Direito"
+        },
+        {
+            brand: "Mitsubishi",
+            imgSrc: "../images/catalysts/Catalisador_Mitsubishi_Outlander_2.4_4x4_16v_2010...-transformed.png",
+            title: "Catalisador Mitsubishi Outlander 2.4 4x4 16v 2010/...",
+            description: "",
+            price: 'R$ 2.089,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Mitsubishi%20Outlander%202.4%204x4%2016v%202010/..."
+        },
+        {
+            brand: "Nissan",
+            imgSrc: "../images/catalysts/Catalisador_March_1.0_4cc_2011_2012_2013_2014_2015_2016-transformed.png",
+            title: "Catalisador March 1.0 4cc 2011 2012 2013 2014 2015 2016",
+            description: "",
+            price: 'R$ 599,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20March%201.0%204cc%202011%202012%202013%202014%202015%202016"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Kangoo_1.6_16v-transformed.png",
+            title: "Catalisador Kangoo 1.6 16v",
+            description: "",
+            price: 'R$ 999,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Kangoo%201.6%2016v"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Fluence_2011_2012_2013_2014_2015_2016_2017-transformed.png",
+            title: "Catalisador Fluence 2011 2012 2013 2014 2015 2016 2017",
+            description: "",
+            price: 'R$ 969,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Fluence%202011%202012%202013%202014%202015%202016%202017"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Duster_2.0_16v_4x4_2012_2013_2014_2015_2016_2017-transformed.png",
+            title: "Catalisador Duster 2.0 16v 4x4 2012 2013 2014 2015 2016 2017",
+            description: "",
+            price: 'R$ 1.029,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Duster%202.0%2016v%204x4%202012%202013%202014%202015%202016%202017"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Clio_1.6_16v_Symbol_1.6_16v-transformed.png",
+            title: "Catalisador Clio 1.6 16v Symbol 1.6 16v",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Clio%201.6%2016v%20Symbol%201.6%2016v"
+        },
+        {
+            brand: "Renault",
+            imgSrc: "../images/catalysts/Catalisador_Clio_1.0_99_2000_201_02_03_04_05_06_07_08_09_10_11_2012-transformed.png",
+            title: "Catalisador Clio 1.0 99 2000 201 02 03 04 05 06 07 08 09 10 11 2012",
+            description: "",
+            price: 'R$ 569,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Clio%201.0%2099%202000%20201%2002%2003%2004%2005%2006%2007%2008%2009%2010%2011%202012"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
