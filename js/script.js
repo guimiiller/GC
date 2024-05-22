@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", function () {
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Santa%20Fé%20Conjunto%203%20Peças%20Original%20"
         },
         {
-            brand: "Caoa Cherry",
+            brand: "Caoa Chery",
             imgSrc: "../images/catalysts/catalystTiggo.png",
             title: "Tiggo 5x Original",
             description: "",
@@ -177,7 +177,7 @@ document.addEventListener("DOMContentLoaded", function () {
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Tiggo%205x%20Original%20"
         },
         {
-            brand: "Caoa Cherry",
+            brand: "Caoa Chery",
             imgSrc: "../images/catalysts/catalystTiggo7x.png",
             title: "Tiggo 7x Original",
             description: "",
@@ -1535,6 +1535,174 @@ document.addEventListener("DOMContentLoaded", function () {
             description: "",
             price: 'R$ 749,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Citroen%20Aircross%20C3%20Peugeot%20208%20C3%20Picasso"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Stilo_Strada_Palio_Corsa_Montana_Meriva_Idea_Punto_1.8_Doblo-transformed.png",
+            title: "Catalisador Stilo Strada Palio Corsa Montana Meriva Idea Punto 1.8 Doblo",
+            description: "",
+            price: 'R$ 979,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Stilo%20Strada%20Palio%20Corsa%20Montana%20Meriva%20Idea%20Punto%201.8%20Doblo"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_S10_2.4_2013_2014_2015_2016_2017-transformed.png",
+            title: "Catalisador Secundário S10 2.4 2013 2014 2015 2016 2017",
+            description: "",
+            price: 'R$ 989,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20S10%202.4%202013%202014%202015%202016%202017"
+        },
+        {
+            brand: "Caoa Chery",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Chery_Tiggo_2.0_16v_2009_2010_2011_2012_2013_2014_2015-transformed.png",
+            title: "Catalisador Secundário Chery Tiggo 2.0 16v 2009 2010 2011 2012 2013 2014 2015",
+            description: "",
+            price: 'R$ 719,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Chery%20Tiggo%202.0%2016v%202009%202010%202011%202012%202013%202014%202015"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Secundario_Astra_Vectra_Zafira_2009_2010_20011_2012_2013-transformed.png",
+            title: "Catalisador Secundario Astra Vectra Zafira 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 1.029,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundario%20Astra%20Vectra%20Zafira%202009%202010%202011%202012%202013"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_S10_Blazer_2.4_2007_2008_2009_2010_2011_2012-transformed.png",
+            title: "Catalisador S10 Blazer 2.4 2007 2008 2009 2010 2011 2012",
+            description: "",
+            price: 'R$ 1.069,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20S10%20Blazer%202.4%202007%202008%202009%202010%202011%202012"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Primário_S10_2.4_2013_2014_2015_2016_2017-transformed.png",
+            title: "Catalisador Primário S10 2.4 2013 2014 2015 2016 2017",
+            description: "",
+            price: 'R$ 839,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20S10%202.4%202013%202014%202015%202016%202017"
+        },
+        {
+            brand: "Caoa Chery",
+            imgSrc: "../images/catalysts/Catalisador_Primario_Chery_Tiggo_2.0_16v_2009_2010_2011_2012_2013_2014_2015-transformed.png",
+            title: "Catalisador Primario Chery Tiggo 2.0 16v 2009 2010 2011 2012 2013 2014 2015",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primario%20Chery%20Tiggo%202.0%2016v%202009%202010%202011%202012%202013%202014%202015"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Primario_Captiva_2.4_16v_2011_2012_2013_2014_2015_2016_2017-transformed.png",
+            title: "Catalisador Primario Captiva 2.4 16v 2011 2012 2013 2014 2015 2016 2017",
+            description: "",
+            price: 'R$ 2.489,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primario%20Captiva%202.4%2016v%202011%202012%202013%202014%202015%202016%202017"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Primário_Astra_Vectra_Zafira_2009_2010_20011_2012_2013-transformed.png",
+            title: "Catalisador Primário Astra Vectra Zafira 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 1.169,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Primário%20Astra%20Vectra%20Zafira%202009%202010%202011%202012%202013"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Hb20_1.0_2012_2013_2014_2015_2016_2017_2018_2019_2020_Kia_Picanto_1.0-transformed.png",
+            title: "Catalisador Hb20 1.0 2012 2013 2014 2015 2016 2017 2018 2019 2020 Kia Picanto 1.0",
+            description: "",
+            price: 'R$ 819,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Hb20%201.0%202012%202013%202014%202015%202016%202017%202018%202019%202020%20Kia%20Picanto%201.0"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Corsa_93_94_95_96_97_98_99_2000_2001_2002_2003_2004_Hatch_e_Sedan_Classic-transformed.png",
+            title: "Catalisador Corsa 93 94 95 96 97 98 99 2000 2001 2002 2003 2004 Hatch e Sedan Classic",
+            description: "",
+            price: 'R$ 489,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Corsa%2093%2094%2095%2096%2097%2098%2099%202000%202001%202002%202003%202004%20Hatch%20e%20Sedan%20Classic"
+        },
+        {
+            brand: "Caoa Chery",
+            imgSrc: "../images/catalysts/Catalisador_Chery_Face_1.3_16v_2010_2011_2012_2013_2014_2015-transformed.png",
+            title: "Catalisador Chery Face 1.3 16v 2010 2011 2012 2013 2014 2015",
+            description: "",
+            price: 'R$ 1.499,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Chery%20Face%201.3%2016v%202010%202011%202012%202013%202014%202015"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Celta_Cobalt_Classic_Prisma_Montana_Onix_Spin-transformed.png",
+            title: "Catalisador Celta Cobalt Classic Prisma Montana Onix Spin",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Celta%20Cobalt%20Classic%20Prisma%20Montana%20Onix%20Spin"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Celta_1.0_2000_2001_2002_2003_2004_2005-transformed.png",
+            title: "Catalisador Celta 1.0 2000 2001 2002 2003 2004 2005",
+            description: "",
+            price: 'R$ 529,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Celta%201.0%202000%202001%202002%202003%202004%202005"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Captiva_3.6_V6_2008_2009_2010_2011_Lado_Esquerdo-transformed.png",
+            title: "Catalisador Captiva 3.6 V6 2008 2009 2010 2011 Lado Esquerdo",
+            description: "",
+            price: 'R$ 2.599,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Captiva%203.6%20V6%202008%202009%202010%202011%20Lado%20Esquerdo"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Captiva_3.6_V6_4x2_2008_2009_2010_Lado_Direito-transformed.png",
+            title: "Catalisador Captiva 3.6 V6 4x2 2008 2009 2010 Lado Direito",
+            description: "",
+            price: 'R$ 2.599,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Captiva%203.6%20V6%204x2%202008%202009%202010%20Lado%20Direito"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Captiva_3.0_V6_2011_2012_2013_2014_Lado_Esquerdo-transformed.png",
+            title: "Catalisador Captiva 3.0 V6 2011 2012 2013 2014 Lado Esquerdo",
+            description: "",
+            price: 'R$ 1.590,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Captiva%203.0%20V6%202011%202012%202013%202014%20Lado%20Esquerdo"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Captiva_3.0_V6_2011_2012_2013_2014_Lado_Direito-transformed.png",
+            title: "Catalisador Captiva 3.0 V6 2011 2012 2013 2014 Lado Direito",
+            description: "",
+            price: 'R$ 1.579,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Captiva%203.0%20V6%202011%202012%202013%202014%20Lado%20Direito"
+        },
+        {
+            brand: "Audi",
+            imgSrc: "../images/catalysts/Catalisador_Audi_A4_A5_Q5_2.0_16v_Turbo_2009...-transformed.png",
+            title: "Catalisador Audi A4 A5 Q5 2.0 16v Turbo 2009...",
+            description: "",
+            price: 'R$ 1.799,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Audi%20A4%20A5%20Q5%202.0%2016v%20Turbo%202009..."
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Astra_Vectra_Zafira-transformed.png",
+            title: "Catalisador Astra Vectra Zafira",
+            description: "",
+            price: 'R$ 889,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Astra%20Vectra%20Zafira"
+        },
+        {
+            brand: "Chevrolet",
+            imgSrc: "../images/catalysts/Catalisador_Agile_Celta_Corsa_Classic_Prisma_Montana_Meriva-transformed.png",
+            title: "Catalisador Agile Celta Corsa Classic Prisma Montana Meriva",
+            description: "",
+            price: 'R$ 739,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Agile%20Celta%20Corsa%20Classic%20Prisma%20Montana%20Meriva"
         },
     ];
 
