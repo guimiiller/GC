@@ -1408,6 +1408,134 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 569,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Clio%201.0%2099%202000%20201%2002%2003%2004%2005%2006%2007%2008%2009%2010%2011%202012"
         },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Tubo_Motor_Com_Catalisador_Fiorino_Fire_1.3_2002_2003_2004_2005_2006-transformed.png",
+            title: "Tubo Motor Com Catalisador Fiorino Fire 1.3 2002 2003 2004 2005 2006",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Tubo%20Motor%20Com%20Catalisador%20Fiorino%20Fire%201.3%202002%202003%202004%202005%202006"
+        },
+        {
+            brand: "Citroen",
+            imgSrc: "../images/catalysts/Catalisador_Xsara_Picasso_2.0_16v_2001_2002_2003_2004_2005_2006_2007_2008_2009_2010_2011-transformed.png",
+            title: "Catalisador Xsara Picasso 2.0 16v 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011",
+            description: "",
+            price: 'R$ 1.169,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Xsara%20Picasso%202.0%2016v%202001%202002%202003%202004%202005%202006%202007%202008%202009%202010%202011"
+        },
+        {
+            brand: "Citroen",
+            imgSrc: "../images/catalysts/Catalisador_Xsara_Picasso_1.6_2001_2002_2003_2004_2005_2006_2007_2008_2009-transformed.png",
+            title: "Catalisador Xsara Picasso 1.6 2001 2002 2003 2004 2005 2006 2007 2008 2009",
+            description: "",
+            price: 'R$ 879,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Xsara%20Picasso%201.6%202001%202002%202003%202004%202005%202006%202007%202008%202009"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Tucson_2.0_16v_Kia_Sportage_2.0_16v-transformed.png",
+            title: "Catalisador Secundário Tucson 2.0 16v Kia Sportage 2.0 16v",
+            description: "",
+            price: 'R$ 869,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Secundário%20Tucson%202.0%2016v%20Kia%20Sportage%202.0%2016v"
+        },
+        {
+            brand: "Hyundai",
+            imgSrc: "../images/catalysts/Catalisador_Secundário_Ix35_2.0_16v_Sportage_2.0_16v_2012...-transformed.png",
+            title: "Catalisador Secundário Ix35 2.0 16v Sportage 2.0 16v 2012/...",
+            description: "",
+            price: 'R$ 1.429,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Secundário%20Ix35%202.0%2016v%20Sportage%202.0%2016v%202012..."
+        },
+        {
+            brand: "Peugeot",
+            imgSrc: "../images/catalysts/Catalisador_Peugeot_Partner_1.6_Citroen_Berlingo_1.6-transformed.png",
+            title: "Catalisador Peugeot Partner 1.6 Citroen Berlingo 1.6",
+            description: "",
+            price: 'R$ 879,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Peugeot%20Partner%201.6%20Citroen%20Berlingo%201.6"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Linea_1.9_2009_2010_2011_2012-transformed.png",
+            title: "Catalisador Linea 1.9 2009 2010 2011 2012",
+            description: "",
+            price: 'R$ 1.149,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Linea%201.9%202009%202010%202011%202012"
+        },
+        {
+            brand: "Mitsubishi",
+            imgSrc: "../images/catalysts/Catalisador_L200_Triton_Pajero_Dakar_3.5_V6_Flex_2010..._Lado_Esquerdo-transformed.png",
+            title: "Catalisador L200 Triton Pajero Dakar 3.5 V6 Flex 2010/... Lado Esquerdo",
+            description: "",
+            price: 'R$ 1.149,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20L200%20Triton%20Pajero%20Dakar%203.5%20V6%20Flex%202010...%20Lado%20Esquerdo"
+        },
+        {
+            brand: "Kia",
+            imgSrc: "../images/catalysts/Catalisador_Kia_Picanto_2005_2006_2007_2008_2009_2010-transformed.png",
+            title: "Catalisador Kia Picanto 2005 2006 2007 2008 2009 2010",
+            description: "",
+            price: 'R$ 2.290,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Catalisador%20Kia%20Picanto%202005%202006%202007%202008%202009%202010"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Fiorino_Palio_Uno_Siena_Mobi_1.0_4cc_1.01.4_Evo_Doblo_Idea-transformed.png",
+            title: "Catalisador Fiorino Palio Uno Siena Mobi 1.0 4cc 1.0 1.4 Evo Doblo Idea",
+            description: "",
+            price: 'R$ 819,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Fiorino%20Palio%20Uno%20Siena%20Mobi%201.0%204cc%201.0%201.4%20Evo%20Doblo%20Idea"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Fiorino_1.3_Flex_2007_2008_2009_2010_2011_2012_2013-transformed.png",
+            title: "Catalisador Fiorino 1.3 Flex 2007 2008 2009 2010 2011 2012 2013",
+            description: "",
+            price: 'R$ 769,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Fiorino%201.3%20Flex%202007%202008%202009%202010%202011%202012%202013"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Doblo_Strada_Palio_Siena_Weekend_Bravo_Punto_Idea_Linea_Cronos_Grand_Seina_1.6_16v_e_1.8_Etorq-transformed.png",
+            title: "Catalisador Doblo Strada Palio Siena Weekend Bravo Punto Idea Linea Cronos Grand Siena 1.6 16v e 1.8 Etorq",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Doblo%20Strada%20Palio%20Siena%20Weekend%20Bravo%20Punto%20Idea%20Linea%20Cronos%20Grand%20Siena%201.6%2016v%%201.8%20Etorq"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Doblo_Palio_Siena_Weekend_Strada_1.4_Fiorino_Evo_Idea_Punto_Uno_1.4-transformed.png",
+            title: "Catalisador Doblo Palio Siena Weekend Strada 1.4 Fiorino Evo Idea Punto Uno 1.4",
+            description: "",
+            price: 'R$ 890,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Doblo%20Palio%20Siena%20Weekend%20Strada%201.4%20Fiorino%20Evo%20Idea%20Punto%20Uno%201.4"
+        },
+        {
+            brand: "Fiat",
+            imgSrc: "../images/catalysts/Catalisador_Doblo_Idea_Palio_Punto_Siena_Weekend_Stilo_Strada_1.8-transformed.png",
+            title: "Catalisador Doblo Idea Palio Punto Siena Weekend Stilo Strada 1.8",
+            description: "",
+            price: 'R$ 899,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Doblo%20Idea%20Palio%20Punto%20Siena%20Weekend%20Stilo%20Strada%201.8"
+        },
+        {
+            brand: "Mercedes",
+            imgSrc: "../images/catalysts/Catalisador_Classe_a_160_190-transformed.png",
+            title: "Catalisador Classe a 160 190",
+            description: "",
+            price: 'R$ 949,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Classe%20a%20160%20190"
+        },
+        {
+            brand: "Citroen",
+            imgSrc: "../images/catalysts/Catalisador_Citroen_Aircross_C3_Peugeot_208_C3_Picasso-transformed.png",
+            title: "Catalisador Citroen Aircross C3 Peugeot 208 C3 Picasso",
+            description: "",
+            price: 'R$ 749,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Citroen%20Aircross%20C3%20Peugeot%20208%20C3%20Picasso"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
