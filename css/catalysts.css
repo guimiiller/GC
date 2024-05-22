@@ -304,6 +304,21 @@ header img{
     background-color: #F4BD67;
     color: #000;
 }
+
+.icon_mercado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.icon_mercado img{
+    margin-left: 5px;
+}
+
+.icon_mercado h6{
+    font-size: 15px;
+}
     
 
 @media(max-width: 769px){
