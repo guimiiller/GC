@@ -1708,7 +1708,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const cardsContainer = document.querySelector('#products-container');
     const paginationContainer = document.querySelector('#pagination');
-    const itemsPerPage = 12;
+    const itemsPerPage = 24;
     let currentPage = 1;
 
     function renderCards(cards, container) {
