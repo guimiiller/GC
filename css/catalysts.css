@@ -49,13 +49,14 @@ header{
 }
 
 .more_search select{
-    padding: 12px 38px;
+    padding: 12px 10px;
     border-radius: 20px;
     background-color: #1F1F1F;
     color: #b7b7b7;
     border: none;
     outline: none;
     box-shadow: 5px 0 10px #080808, -5px 0 10px #080808;
+    cursor: pointer;
 }
 
 
