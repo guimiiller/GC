@@ -17,7 +17,7 @@ header{
     width: 100%;
     z-index: 100;
     transition: .4s;
-    padding: 24px;
+    padding: 20px;
     text-transform: uppercase;
     letter-spacing: 1px;
     background: #1F1F1F;
@@ -789,6 +789,10 @@ header{
 @media (max-width: 426px){
     .services_text h2{
         font-size: 50px;
+    }
+
+    .dropdown_service details{
+        padding: 15px 5px;
     }
 }
 
