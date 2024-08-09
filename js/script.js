@@ -1704,6 +1704,230 @@ document.addEventListener("DOMContentLoaded", function () {
             price: 'R$ 739,00',
             whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Agile%20Celta%20Corsa%20Classic%20Prisma%20Montana%20Meriva"
         },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/VolvoVM.jpeg",
+            title: "Catalisador Volvo VM Linha 200 e 300",
+            description: "",
+            price: 'R$ 7.800,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Volvo%20VM%20Linha%20200%20e%20300"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/IvecoTector.jpeg",
+            title: "Catalisador Iveco Tector 260E30ID",
+            description: "",
+            price: 'R$ 9.200,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Iveco%20Tector%20260E30ID"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/Scaniar440.jpeg",
+            title: "Catalisador Scania R440",
+            description: "",
+            price: 'R$ 9.780,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Scania%20R440"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/IvecoStralis.jpeg",
+            title: "Catalisador Iveco Stralis",
+            description: "",
+            price: 'R$ 12.800,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Iveco%20Stralis"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/IvecoTector2.jpeg",
+            title: "Catalisador Iveco Tector",
+            description: "",
+            price: 'R$ 12.300,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Iveco%20Tector"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/VolvoFh.jpeg",
+            title: "Catalisador Volvo FH linha 400 e linha 500",
+            description: "",
+            price: 'R$ 12.300,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Volvo%20FH%20linha%20400%20e%20linha%20500"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/FordCargo.jpeg",
+            title: "Catalisador Ford Cargo",
+            description: "",
+            price: 'R$ 7.800,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ford%20Cargo"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/FordCargoEuro.jpeg",
+            title: "Catalisador Ford Cargo Euro V 3129, 1723, 2423, 2429, 1731, 2431, 2631, 3131.",
+            description: "",
+            price: 'R$ 8.900,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ford%20Cargo%20Euro%20V%203129,%201723,%202423,%202429,%201731,%202431,%202631,%203131."
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/VolkswagenConste.jpeg",
+            title: "Catalisador Volkswagen Constellation 17.330, 24.330, 31.330, 31.390, 25.390, 24.420",
+            description: "",
+            price: 'R$ 10.300,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Volkswagen%20Constellation%2017.330,%2024.330,%2031.330,%2031.390,%2025.390,%2024.420."
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/Ranger2.2.jpeg",
+            title: "Catalisador Ranger 2.2/2.5/3.2 2012 A 2018 (Diesel)",
+            description: "",
+            price: 'R$ 3.500,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ranger%202.2/2.5/3.2%202012%20A%202018%20(Diesel)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/Sprinter311.jpeg",
+            title: "Catalisador Sprinter 311/415/515 2016 A 2022",
+            description: "",
+            price: 'R$ 3.200,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Sprinter%20311/415/515%202016%20A%202022"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/PeugeotExpert.jpeg",
+            title: "Catalisador Peugeot Expert Citroen Jumpy 2017 A 2022 (Diesel)",
+            description: "",
+            price: 'R$ 4.200,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Peugeot%20Expert%20Citroen%20Jumpy%202017%20A%202022%20(Diesel)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/AmarokMono.jpeg",
+            title: "Catalisador Amarok 2.0 Mono Turbo 2010 A 2017 Com Coletor",
+            description: "",
+            price: 'R$ 3.500,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Amarok%202.0%20Mono%20Turbo%202010%20A%202017%20Com%20Coletor"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/RangerD3.2.jpeg",
+            title: "Catalisador Ranger 3.2 2016 A 2021 (Diesel Ford)",
+            description: "",
+            price: 'R$ 3.800,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ranger%203.2%202016%20A%202021%20(Diesel%20Ford)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/MercedesDMI350.jpeg",
+            title: "Catalisador Mercedes MI350 Diesel 6cc 2010",
+            description: "",
+            price: 'R$ 1.700,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Mercedes%20MI350%20Diesel%206cc%202010"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/HR2.5.jpeg",
+            title: "Catalisador HR 2.5 16V 2013 A 2022 (Diesel Hyundai)",
+            description: "",
+            price: 'R$ 1.500,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20HR%202.5%2016V%202013%20A%202022%20(Diesel%20Hyundai)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/Amarok3.0v6.jpeg",
+            title: "Catalisador Amarok 3.0 V6 (SECUNDÁRIO 2017 A 2022)",
+            description: "",
+            price: 'R$ 3.600,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Amarok%203.0%20V6%20(SECUNDÁRIO%202017%20A%202022)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/HiluxSw4.jpeg",
+            title: "Catalisador Hilux Sw4 2.8 (Diesel 2016 A 2022)",
+            description: "",
+            price: 'R$ 1.900,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Hilux%20Sw4%202.8%20(Diesel%202016%20A%202022)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/MitsubishiPA.jpeg",
+            title: "Catalisador Mitsubishi Pajero Dakar 3.2 (Diesel 2008 A 2015)",
+            description: "",
+            price: 'R$ 1.900,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Mitsubishi%20Pajero%20Dakar%203.2%20(Diesel%202008%20A%202015)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/Ducato2.3.jpeg",
+            title: "Catalisador Ducato 2.3 2018 A 2023 (Diesel Fiat)",
+            description: "",
+            price: 'R$ 3.200,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ducato%202.3%202018%20A%202023%20(Diesel%20Fiat)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/Jumpy1.5.jpeg",
+            title: "Catalisador Jumpy 1.5 e Expert 1.6 Turbo (Diesel 2017 A 2022)",
+            description: "",
+            price: 'R$ 4.300,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Jumpy%201.5%20e%20Expert%201.6%20Turbo%20(Diesel%202017%20A%202022)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/L200NewTriton.jpeg",
+            title: "Catalisador L200 New Triton 2.4 (2021/2022/2023) Diesel",
+            description: "",
+            price: 'R$ 4.300,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20L200%20New%20Triton%202.4%20(2021/2022/2023)%20Diesel"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/JeepTroller.jpeg",
+            title: "Catalisador Jeep Troller 3.2 TGV 2012 em Diante Original Genuína",
+            description: "",
+            price: 'R$ 2.500,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Jeep%20Troller%203.2%20TGV%202012%20em%20Diante%20Original%20Genuína"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/Sprinter313.jpeg",
+            title: "Catalisador Sprinter 313/415/416/515/516 (2016 A 2022)",
+            description: "",
+            price: 'R$ 3.800,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Sprinter%20313/415/416/515/516%20(2016%20A%202022)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/DiscoverySport.jpeg",
+            title: "Catalisador Discovery Sport (Diesel) 2.0 2016 A 2019",
+            description: "",
+            price: 'R$ 3.500,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Discovery%20Sport%20(Diesel)%202.0%202016%20A%202019"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/ToroJeep.jpeg",
+            title: "Catalisador Toro Jeep Compass Renegade 2.0 (Diesel 2015)",
+            description: "",
+            price: 'R$ 3.500,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Toro%20Jeep%20Compass%20Renegade%202.0%20(Diesel%202015)"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/S102.8.jpeg",
+            title: "Catalisador S10 2.8 (Diesel) 2017/18/19/20/22/2023",
+            description: "",
+            price: 'R$ 2.800,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20S10%202.8%20(Diesel)%202017/18/19/20/22/2023"
+        },
+        {
+            brand: "Diesel",
+            imgSrc: "../images/catalysts/RangerD.jpeg",
+            title: "Catalisador Ranger 2.2/2.5/3.2 2012 A 2018 (Diesel)",
+            description: "",
+            price: 'R$ 3.500,00',
+            whatsappLink: "https://wa.me/5511911054332?text=Estou%20interessado%20no%20Ranger%202.2/2.5/3.2%202012%20A%202018%20(Diesel)"
+        },
     ];
 
     const cardsContainer = document.querySelector('#products-container');
