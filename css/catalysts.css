@@ -328,7 +328,7 @@ header img{
         flex-direction: column;
         padding: 90px 0 50px 0;
     }
-    .product-details img{
+    #productImg{
         margin: 0;
         width: 100%;
     }
