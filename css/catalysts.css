@@ -330,16 +330,16 @@ header img{
     }
     .product-details img{
         margin: 0;
+        width: 100%;
     }
     .product-details-2{
-        margin: 50px 30px;
         width: 100%;
+        margin-top: 50px;
     }
 }
 
 @media(max-width: 426px){
     .product-details-2{
-        margin: 50px 30px;
         max-width: 400px;
         width: 100%;
     }
